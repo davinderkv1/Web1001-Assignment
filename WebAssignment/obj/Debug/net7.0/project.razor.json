@@ -18670,6 +18670,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Avi\\Desktop\\Web1001-Assignment\\WebAssignment\\Views\\Home\\intro.cshtml",
+      "TargetPath": "Views\\Home\\intro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Avi\\Desktop\\Web1001-Assignment\\WebAssignment\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
