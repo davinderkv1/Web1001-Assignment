@@ -1,2 +1,1 @@
-# Web1001-Assignment
-Web Assignment
+# Davinder Kumar (A00278772)
