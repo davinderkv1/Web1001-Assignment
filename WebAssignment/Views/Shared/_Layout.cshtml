@@ -38,7 +38,9 @@
             @RenderBody()
         </main>
     </div>
-
+    <div>
+        @RenderSection("DemoSection", required: false)
+    </div>  
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2023 - WebAssignment - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
